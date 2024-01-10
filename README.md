@@ -1,5 +1,5 @@
 Hello, friend
-estou estudando front end 
+estou estudando front end,
 futuramente quero me especializar em cyber segurança 
 
 <!---
